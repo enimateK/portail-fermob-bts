@@ -1,0 +1,474 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{23F9EE50-97D8-4A54-8A06-B50E9D7F9E0E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>waFermob.My.MyApplication</StartupObject>
+    <RootNamespace>waFermob</RootNamespace>
+    <AssemblyName>waFermob</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <PublishUrl>publier\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>waFermob.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>waFermob.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FormAjoutAction.designer.vb">
+      <DependentUpon>FormAjoutAction.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormAjoutAction.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formAjoutCollec.designer.vb">
+      <DependentUpon>formAjoutCollec.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formAjoutCollec.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formAjoutCateg.designer.vb">
+      <DependentUpon>formAjoutCateg.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formAjoutCateg.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formAjoutCara.designer.vb">
+      <DependentUpon>formAjoutCara.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formAjoutCara.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAjoutContact.designer.vb">
+      <DependentUpon>FormAjoutContact.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormAjoutContact.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAjoutEntreprise.designer.vb">
+      <DependentUpon>FormAjoutEntreprise.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormAjoutEntreprise.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAjoutPays.designer.vb">
+      <DependentUpon>FormAjoutPays.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormAjoutPays.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formAjoutProduit.designer.vb">
+      <DependentUpon>formAjoutProduit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formAjoutProduit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formAction.Designer.vb">
+      <DependentUpon>formAction.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formAction.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAjoutTypeAction.designer.vb">
+      <DependentUpon>FormAjoutTypeAction.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormAjoutTypeAction.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAjoutTypeEntreprise.designer.vb">
+      <DependentUpon>FormAjoutTypeEntreprise.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormAjoutTypeEntreprise.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formCarac.Designer.vb">
+      <DependentUpon>formCarac.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formCarac.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formCateg.Designer.vb">
+      <DependentUpon>formCateg.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formCateg.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formCollec.Designer.vb">
+      <DependentUpon>formCollec.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formCollec.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formEntr.Designer.vb">
+      <DependentUpon>formEntr.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formEntr.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formModifAction.designer.vb">
+      <DependentUpon>formModifAction.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formModifAction.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormModifContact.designer.vb">
+      <DependentUpon>FormModifContact.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormModifContact.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormModifEntreprise.designer.vb">
+      <DependentUpon>FormModifEntreprise.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormModifEntreprise.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormModifPays.designer.vb">
+      <DependentUpon>FormModifPays.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormModifPays.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formModifProd.Designer.vb">
+      <DependentUpon>formModifProd.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formModifProd.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formContact.Designer.vb">
+      <DependentUpon>formContact.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formContact.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formPays.Designer.vb">
+      <DependentUpon>formPays.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formPays.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formProduit.Designer.vb">
+      <DependentUpon>formProduit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formProduit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSupprAction.designer.vb">
+      <DependentUpon>FormSupprAction.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormSupprAction.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formSupprCarac.Designer.vb">
+      <DependentUpon>formSupprCarac.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formSupprCarac.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formSupprCateg.Designer.vb">
+      <DependentUpon>formSupprCateg.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formSupprCateg.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formSupprCollec.Designer.vb">
+      <DependentUpon>formSupprCollec.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formSupprCollec.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formSupprContact.Designer.vb">
+      <DependentUpon>formSupprContact.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formSupprContact.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formSupprEntreprise.Designer.vb">
+      <DependentUpon>formSupprEntreprise.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formSupprEntreprise.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSupprPays.designer.vb">
+      <DependentUpon>FormSupprPays.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormSupprPays.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formSupprProd.Designer.vb">
+      <DependentUpon>formSupprProd.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formSupprProd.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formSupprTypeAction.Designer.vb">
+      <DependentUpon>formSupprTypeAction.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formSupprTypeAction.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSupprTypeEntr.designer.vb">
+      <DependentUpon>FormSupprTypeEntr.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormSupprTypeEntr.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formTypeAction.Designer.vb">
+      <DependentUpon>formTypeAction.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formTypeAction.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formTypeEnt.Designer.vb">
+      <DependentUpon>formTypeEnt.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formTypeEnt.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.vb">
+      <DependentUpon>Menu.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="FormAjoutAction.resx">
+      <DependentUpon>FormAjoutAction.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formAjoutCollec.resx">
+      <DependentUpon>formAjoutCollec.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formAjoutCateg.resx">
+      <DependentUpon>formAjoutCateg.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formAjoutCara.resx">
+      <DependentUpon>formAjoutCara.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAjoutContact.resx">
+      <DependentUpon>FormAjoutContact.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAjoutEntreprise.resx">
+      <DependentUpon>FormAjoutEntreprise.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAjoutPays.resx">
+      <DependentUpon>FormAjoutPays.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formAjoutProduit.resx">
+      <DependentUpon>formAjoutProduit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formAction.resx">
+      <DependentUpon>formAction.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAjoutTypeAction.resx">
+      <DependentUpon>FormAjoutTypeAction.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAjoutTypeEntreprise.resx">
+      <DependentUpon>FormAjoutTypeEntreprise.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formCarac.resx">
+      <DependentUpon>formCarac.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formCateg.resx">
+      <DependentUpon>formCateg.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formCollec.resx">
+      <DependentUpon>formCollec.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formContact.resx">
+      <DependentUpon>formContact.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formEntr.resx">
+      <DependentUpon>formEntr.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formModifAction.resx">
+      <DependentUpon>formModifAction.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormModifContact.resx">
+      <DependentUpon>FormModifContact.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormModifEntreprise.resx">
+      <DependentUpon>FormModifEntreprise.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormModifPays.resx">
+      <DependentUpon>FormModifPays.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formModifProd.resx">
+      <DependentUpon>formModifProd.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formPays.resx">
+      <DependentUpon>formPays.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formProduit.resx">
+      <DependentUpon>formProduit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSupprAction.resx">
+      <DependentUpon>FormSupprAction.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formSupprCarac.resx">
+      <DependentUpon>formSupprCarac.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formSupprCateg.resx">
+      <DependentUpon>formSupprCateg.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formSupprCollec.resx">
+      <DependentUpon>formSupprCollec.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formSupprContact.resx">
+      <DependentUpon>formSupprContact.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formSupprEntreprise.resx">
+      <DependentUpon>formSupprEntreprise.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSupprPays.resx">
+      <DependentUpon>FormSupprPays.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formSupprProd.resx">
+      <DependentUpon>formSupprProd.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formSupprTypeAction.resx">
+      <DependentUpon>formSupprTypeAction.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSupprTypeEntr.resx">
+      <DependentUpon>FormSupprTypeEntr.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formTypeAction.resx">
+      <DependentUpon>formTypeAction.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formTypeEnt.resx">
+      <DependentUpon>formTypeEnt.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 et x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,296 @@
+C:\Users\bndux6\AppData\Local\Temporary Projects\waFermob\bin\Debug\waFermob.exe.config
+\\LSC-SRV-7210-0\Users_DATA_Peda\bndux6\Mes Documents\PPE\PPE4 (Portail FERMOB)\waFermob\waFermob\bin\Debug\waFermob.exe.config
+\\LSC-SRV-7210-0\Users_DATA_Peda\bndux6\Mes Documents\PPE\PPE4 (Portail FERMOB)\waFermob\waFermob\bin\Debug\waFermob.exe
+\\LSC-SRV-7210-0\Users_DATA_Peda\bndux6\Mes Documents\PPE\PPE4 (Portail FERMOB)\waFermob\waFermob\bin\Debug\waFermob.pdb
+\\LSC-SRV-7210-0\Users_DATA_Peda\bndux6\Mes Documents\PPE\PPE4 (Portail FERMOB)\waFermob\waFermob\bin\Debug\waFermob.xml
+\\LSC-SRV-7210-0\Users_DATA_Peda\bndux6\Mes Documents\PPE\PPE4 (Portail FERMOB)\waFermob\waFermob\obj\Debug\waFermob.formCarac.resources
+\\LSC-SRV-7210-0\Users_DATA_Peda\bndux6\Mes Documents\PPE\PPE4 (Portail FERMOB)\waFermob\waFermob\obj\Debug\waFermob.formCateg.resources
+\\LSC-SRV-7210-0\Users_DATA_Peda\bndux6\Mes Documents\PPE\PPE4 (Portail FERMOB)\waFermob\waFermob\obj\Debug\waFermob.formCollec.resources
+\\LSC-SRV-7210-0\Users_DATA_Peda\bndux6\Mes Documents\PPE\PPE4 (Portail FERMOB)\waFermob\waFermob\obj\Debug\waFermob.formContact.resources
+\\LSC-SRV-7210-0\Users_DATA_Peda\bndux6\Mes Documents\PPE\PPE4 (Portail FERMOB)\waFermob\waFermob\obj\Debug\waFermob.formModifProd.resources
+\\LSC-SRV-7210-0\Users_DATA_Peda\bndux6\Mes Documents\PPE\PPE4 (Portail FERMOB)\waFermob\waFermob\obj\Debug\waFermob.formProduit.resources
+\\LSC-SRV-7210-0\Users_DATA_Peda\bndux6\Mes Documents\PPE\PPE4 (Portail FERMOB)\waFermob\waFermob\obj\Debug\waFermob.formSupprCarac.resources
+\\LSC-SRV-7210-0\Users_DATA_Peda\bndux6\Mes Documents\PPE\PPE4 (Portail FERMOB)\waFermob\waFermob\obj\Debug\waFermob.formSupprCateg.resources
+\\LSC-SRV-7210-0\Users_DATA_Peda\bndux6\Mes Documents\PPE\PPE4 (Portail FERMOB)\waFermob\waFermob\obj\Debug\waFermob.formSupprCollec.resources
+\\LSC-SRV-7210-0\Users_DATA_Peda\bndux6\Mes Documents\PPE\PPE4 (Portail FERMOB)\waFermob\waFermob\obj\Debug\waFermob.formSupprProd.resources
+\\LSC-SRV-7210-0\Users_DATA_Peda\bndux6\Mes Documents\PPE\PPE4 (Portail FERMOB)\waFermob\waFermob\obj\Debug\waFermob.Menu.resources
+\\LSC-SRV-7210-0\Users_DATA_Peda\bndux6\Mes Documents\PPE\PPE4 (Portail FERMOB)\waFermob\waFermob\obj\Debug\waFermob.Resources.resources
+\\LSC-SRV-7210-0\Users_DATA_Peda\bndux6\Mes Documents\PPE\PPE4 (Portail FERMOB)\waFermob\waFermob\obj\Debug\waFermob.vbproj.GenerateResource.Cache
+\\LSC-SRV-7210-0\Users_DATA_Peda\bndux6\Mes Documents\PPE\PPE4 (Portail FERMOB)\waFermob\waFermob\obj\Debug\waFermob.exe
+\\LSC-SRV-7210-0\Users_DATA_Peda\bndux6\Mes Documents\PPE\PPE4 (Portail FERMOB)\waFermob\waFermob\obj\Debug\waFermob.xml
+\\LSC-SRV-7210-0\Users_DATA_Peda\bndux6\Mes Documents\PPE\PPE4 (Portail FERMOB)\waFermob\waFermob\obj\Debug\waFermob.pdb
+\\LSC-SRV-7210-0\Users_DATA_Peda\bndux6\Mes Documents\PPE\PPE4 (Portail FERMOB)\waFermob\waFermob\obj\Debug\waFermob.FormVisuContact.resources
+\\LSC-SRV-7210-0\Users_DATA_Peda\bndux6\Mes Documents\PPE\PPE4 (Portail FERMOB)\waFermob\waFermob\obj\Debug\waFermob.FormSupprContact.resources
+\\LSC-SRV-7210-0\Users_DATA_Peda\bndux6\Mes Documents\PPE\PPE4 (Portail FERMOB)\waFermob\waFermob\obj\Debug\waFermob.formEntr.resources
+\\LSC-SRV-7210-0\Users_DATA_Peda\bndux6\Mes Documents\PPE\PPE4 (Portail FERMOB)\waFermob\waFermob\obj\Debug\waFermob.FormSupprEntreprise.resources
+D:\Home\Dropbox\Cours BTS\PPE\PPE4 (Portail FERMOB)\waFermob\waFermob\waFermob\bin\Debug\waFermob.exe.config
+D:\Home\Dropbox\Cours BTS\PPE\PPE4 (Portail FERMOB)\waFermob\waFermob\waFermob\bin\Debug\waFermob.exe
+D:\Home\Dropbox\Cours BTS\PPE\PPE4 (Portail FERMOB)\waFermob\waFermob\waFermob\bin\Debug\waFermob.pdb
+D:\Home\Dropbox\Cours BTS\PPE\PPE4 (Portail FERMOB)\waFermob\waFermob\waFermob\bin\Debug\waFermob.xml
+D:\Home\Dropbox\Cours BTS\PPE\PPE4 (Portail FERMOB)\waFermob\waFermob\waFermob\obj\Debug\waFermob.formAjoutCollec.resources
+D:\Home\Dropbox\Cours BTS\PPE\PPE4 (Portail FERMOB)\waFermob\waFermob\waFermob\obj\Debug\waFermob.formAjoutCateg.resources
+D:\Home\Dropbox\Cours BTS\PPE\PPE4 (Portail FERMOB)\waFermob\waFermob\waFermob\obj\Debug\waFermob.formAjoutCara.resources
+D:\Home\Dropbox\Cours BTS\PPE\PPE4 (Portail FERMOB)\waFermob\waFermob\waFermob\obj\Debug\waFermob.formAjoutProduit.resources
+D:\Home\Dropbox\Cours BTS\PPE\PPE4 (Portail FERMOB)\waFermob\waFermob\waFermob\obj\Debug\waFermob.formAction.resources
+D:\Home\Dropbox\Cours BTS\PPE\PPE4 (Portail FERMOB)\waFermob\waFermob\waFermob\obj\Debug\waFermob.formCarac.resources
+D:\Home\Dropbox\Cours BTS\PPE\PPE4 (Portail FERMOB)\waFermob\waFermob\waFermob\obj\Debug\waFermob.formCateg.resources
+D:\Home\Dropbox\Cours BTS\PPE\PPE4 (Portail FERMOB)\waFermob\waFermob\waFermob\obj\Debug\waFermob.formCollec.resources
+D:\Home\Dropbox\Cours BTS\PPE\PPE4 (Portail FERMOB)\waFermob\waFermob\waFermob\obj\Debug\waFermob.formContact.resources
+D:\Home\Dropbox\Cours BTS\PPE\PPE4 (Portail FERMOB)\waFermob\waFermob\waFermob\obj\Debug\waFermob.FormEntr.resources
+D:\Home\Dropbox\Cours BTS\PPE\PPE4 (Portail FERMOB)\waFermob\waFermob\waFermob\obj\Debug\waFermob.formModifProd.resources
+D:\Home\Dropbox\Cours BTS\PPE\PPE4 (Portail FERMOB)\waFermob\waFermob\waFermob\obj\Debug\waFermob.formPays.resources
+D:\Home\Dropbox\Cours BTS\PPE\PPE4 (Portail FERMOB)\waFermob\waFermob\waFermob\obj\Debug\waFermob.formProduit.resources
+D:\Home\Dropbox\Cours BTS\PPE\PPE4 (Portail FERMOB)\waFermob\waFermob\waFermob\obj\Debug\waFermob.FormSupprAction.resources
+D:\Home\Dropbox\Cours BTS\PPE\PPE4 (Portail FERMOB)\waFermob\waFermob\waFermob\obj\Debug\waFermob.formSupprCarac.resources
+D:\Home\Dropbox\Cours BTS\PPE\PPE4 (Portail FERMOB)\waFermob\waFermob\waFermob\obj\Debug\waFermob.formSupprCateg.resources
+D:\Home\Dropbox\Cours BTS\PPE\PPE4 (Portail FERMOB)\waFermob\waFermob\waFermob\obj\Debug\waFermob.formSupprCollec.resources
+D:\Home\Dropbox\Cours BTS\PPE\PPE4 (Portail FERMOB)\waFermob\waFermob\waFermob\obj\Debug\waFermob.FormSupprContact.resources
+D:\Home\Dropbox\Cours BTS\PPE\PPE4 (Portail FERMOB)\waFermob\waFermob\waFermob\obj\Debug\waFermob.FormSupprEntreprise.resources
+D:\Home\Dropbox\Cours BTS\PPE\PPE4 (Portail FERMOB)\waFermob\waFermob\waFermob\obj\Debug\waFermob.FormSupprPays.resources
+D:\Home\Dropbox\Cours BTS\PPE\PPE4 (Portail FERMOB)\waFermob\waFermob\waFermob\obj\Debug\waFermob.formSupprProd.resources
+D:\Home\Dropbox\Cours BTS\PPE\PPE4 (Portail FERMOB)\waFermob\waFermob\waFermob\obj\Debug\waFermob.FormSupprTypeEntr.resources
+D:\Home\Dropbox\Cours BTS\PPE\PPE4 (Portail FERMOB)\waFermob\waFermob\waFermob\obj\Debug\waFermob.formTypeEnt.resources
+D:\Home\Dropbox\Cours BTS\PPE\PPE4 (Portail FERMOB)\waFermob\waFermob\waFermob\obj\Debug\waFermob.Menu.resources
+D:\Home\Dropbox\Cours BTS\PPE\PPE4 (Portail FERMOB)\waFermob\waFermob\waFermob\obj\Debug\waFermob.Resources.resources
+D:\Home\Dropbox\Cours BTS\PPE\PPE4 (Portail FERMOB)\waFermob\waFermob\waFermob\obj\Debug\waFermob.vbproj.GenerateResource.Cache
+D:\Home\Dropbox\Cours BTS\PPE\PPE4 (Portail FERMOB)\waFermob\waFermob\waFermob\obj\Debug\waFermob.exe
+D:\Home\Dropbox\Cours BTS\PPE\PPE4 (Portail FERMOB)\waFermob\waFermob\waFermob\obj\Debug\waFermob.xml
+D:\Home\Dropbox\Cours BTS\PPE\PPE4 (Portail FERMOB)\waFermob\waFermob\waFermob\obj\Debug\waFermob.pdb
+D:\Home\Dropbox\Cours BTS\PPE\PPE4 (Portail FERMOB)\waFermob\waFermob\waFermob\obj\Debug\waFermob.FormAjoutContact.resources
+D:\Home\Dropbox\Cours BTS\PPE\PPE4 (Portail FERMOB)\waFermob\waFermob\waFermob\obj\Debug\waFermob.FormAjoutEntreprise.resources
+D:\Home\Dropbox\Cours BTS\PPE\PPE4 (Portail FERMOB)\waFermob\waFermob\waFermob\obj\Debug\waFermob.FormAjoutPays.resources
+D:\Home\Dropbox\Cours BTS\PPE\PPE4 (Portail FERMOB)\waFermob\waFermob\waFermob\obj\Debug\waFermob.FormAjoutTypeEntreprise.resources
+D:\Home\Dropbox\Cours BTS\PPE\PPE4 (Portail FERMOB)\waFermob\waFermob\waFermob\obj\Debug\waFermob.FormAjoutAction.resources
+D:\Home\Dropbox\Cours BTS\PPE\PPE4 (Portail FERMOB)\waFermob\waFermob\waFermob\obj\Debug\waFermob.FormAjoutTypeAction.resources
+D:\Home\Dropbox\Cours BTS\PPE\PPE4 (Portail FERMOB)\waFermob\waFermob\waFermob\obj\Debug\waFermob.formTypeAction.resources
+D:\Home\Dropbox\Cours BTS\PPE\PPE4 (Portail FERMOB)\waFermob\waFermob\waFermob\obj\Debug\waFermob.formSupprTypeAction.resources
+D:\Home\Dropbox\Cours BTS\PPE\PPE4 (Portail FERMOB)\waFermob\waFermob\waFermob\obj\Debug\waFermob.FormModifContact.resources
+D:\Home\Dropbox\Cours BTS\PPE\PPE4 (Portail FERMOB)\waFermob\waFermob\waFermob\obj\Debug\waFermob.FormModifEntreprise.resources
+D:\Home\Dropbox\Cours BTS\PPE\PPE4 (Portail FERMOB)\waFermob\waFermob\waFermob\obj\Debug\waFermob.FormModifPays.resources
+C:\Users\asbur2\Desktop\waFermob\waFermob\waFermob\bin\Debug\waFermob.exe.config
+C:\Users\asbur2\Desktop\waFermob\waFermob\waFermob\obj\Debug\waFermob.exe
+C:\Users\asbur2\Desktop\waFermob\waFermob\waFermob\obj\Debug\waFermob.xml
+C:\Users\asbur2\Desktop\waFermob\waFermob\waFermob\obj\Debug\waFermob.pdb
+C:\Users\asbur2\Desktop\waFermob\waFermob\waFermob\bin\Debug\waFermob.exe
+C:\Users\asbur2\Desktop\waFermob\waFermob\waFermob\bin\Debug\waFermob.pdb
+C:\Users\asbur2\Desktop\waFermob\waFermob\waFermob\bin\Debug\waFermob.xml
+C:\Users\asbur2\Desktop\waFermob\waFermob\waFermob\obj\Debug\waFermob.FormAjoutAction.resources
+C:\Users\asbur2\Desktop\waFermob\waFermob\waFermob\obj\Debug\waFermob.formAjoutCollec.resources
+C:\Users\asbur2\Desktop\waFermob\waFermob\waFermob\obj\Debug\waFermob.formAjoutCateg.resources
+C:\Users\asbur2\Desktop\waFermob\waFermob\waFermob\obj\Debug\waFermob.formAjoutCara.resources
+C:\Users\asbur2\Desktop\waFermob\waFermob\waFermob\obj\Debug\waFermob.FormAjoutContact.resources
+C:\Users\asbur2\Desktop\waFermob\waFermob\waFermob\obj\Debug\waFermob.FormAjoutEntreprise.resources
+C:\Users\asbur2\Desktop\waFermob\waFermob\waFermob\obj\Debug\waFermob.FormAjoutPays.resources
+C:\Users\asbur2\Desktop\waFermob\waFermob\waFermob\obj\Debug\waFermob.formAjoutProduit.resources
+C:\Users\asbur2\Desktop\waFermob\waFermob\waFermob\obj\Debug\waFermob.formAction.resources
+C:\Users\asbur2\Desktop\waFermob\waFermob\waFermob\obj\Debug\waFermob.FormAjoutTypeAction.resources
+C:\Users\asbur2\Desktop\waFermob\waFermob\waFermob\obj\Debug\waFermob.FormAjoutTypeEntreprise.resources
+C:\Users\asbur2\Desktop\waFermob\waFermob\waFermob\obj\Debug\waFermob.formCarac.resources
+C:\Users\asbur2\Desktop\waFermob\waFermob\waFermob\obj\Debug\waFermob.formCateg.resources
+C:\Users\asbur2\Desktop\waFermob\waFermob\waFermob\obj\Debug\waFermob.formCollec.resources
+C:\Users\asbur2\Desktop\waFermob\waFermob\waFermob\obj\Debug\waFermob.formContact.resources
+C:\Users\asbur2\Desktop\waFermob\waFermob\waFermob\obj\Debug\waFermob.FormEntr.resources
+C:\Users\asbur2\Desktop\waFermob\waFermob\waFermob\obj\Debug\waFermob.FormModifContact.resources
+C:\Users\asbur2\Desktop\waFermob\waFermob\waFermob\obj\Debug\waFermob.FormModifEntreprise.resources
+C:\Users\asbur2\Desktop\waFermob\waFermob\waFermob\obj\Debug\waFermob.FormModifPays.resources
+C:\Users\asbur2\Desktop\waFermob\waFermob\waFermob\obj\Debug\waFermob.formModifProd.resources
+C:\Users\asbur2\Desktop\waFermob\waFermob\waFermob\obj\Debug\waFermob.formPays.resources
+C:\Users\asbur2\Desktop\waFermob\waFermob\waFermob\obj\Debug\waFermob.formProduit.resources
+C:\Users\asbur2\Desktop\waFermob\waFermob\waFermob\obj\Debug\waFermob.FormSupprAction.resources
+C:\Users\asbur2\Desktop\waFermob\waFermob\waFermob\obj\Debug\waFermob.formSupprCarac.resources
+C:\Users\asbur2\Desktop\waFermob\waFermob\waFermob\obj\Debug\waFermob.formSupprCateg.resources
+C:\Users\asbur2\Desktop\waFermob\waFermob\waFermob\obj\Debug\waFermob.formSupprCollec.resources
+C:\Users\asbur2\Desktop\waFermob\waFermob\waFermob\obj\Debug\waFermob.FormSupprContact.resources
+C:\Users\asbur2\Desktop\waFermob\waFermob\waFermob\obj\Debug\waFermob.FormSupprEntreprise.resources
+C:\Users\asbur2\Desktop\waFermob\waFermob\waFermob\obj\Debug\waFermob.FormSupprPays.resources
+C:\Users\asbur2\Desktop\waFermob\waFermob\waFermob\obj\Debug\waFermob.formSupprProd.resources
+C:\Users\asbur2\Desktop\waFermob\waFermob\waFermob\obj\Debug\waFermob.formSupprTypeAction.resources
+C:\Users\asbur2\Desktop\waFermob\waFermob\waFermob\obj\Debug\waFermob.FormSupprTypeEntr.resources
+C:\Users\asbur2\Desktop\waFermob\waFermob\waFermob\obj\Debug\waFermob.formTypeAction.resources
+C:\Users\asbur2\Desktop\waFermob\waFermob\waFermob\obj\Debug\waFermob.formTypeEnt.resources
+C:\Users\asbur2\Desktop\waFermob\waFermob\waFermob\obj\Debug\waFermob.Menu.resources
+C:\Users\asbur2\Desktop\waFermob\waFermob\waFermob\obj\Debug\waFermob.Resources.resources
+C:\Users\asbur2\Desktop\waFermob\waFermob\waFermob\obj\Debug\waFermob.vbproj.GenerateResource.Cache
+\\LSC-SRV-7210-0\Users_DATA_Peda\bndux6\Mes Documents\PPE\PPE4 (Portail FERMOB)\waFermob_V4\waFermob\waFermob\waFermob\bin\Debug\waFermob.exe.config
+\\LSC-SRV-7210-0\Users_DATA_Peda\bndux6\Mes Documents\PPE\PPE4 (Portail FERMOB)\waFermob_V4\waFermob\waFermob\waFermob\obj\Debug\waFermob.exe
+\\LSC-SRV-7210-0\Users_DATA_Peda\bndux6\Mes Documents\PPE\PPE4 (Portail FERMOB)\waFermob_V4\waFermob\waFermob\waFermob\obj\Debug\waFermob.xml
+\\LSC-SRV-7210-0\Users_DATA_Peda\bndux6\Mes Documents\PPE\PPE4 (Portail FERMOB)\waFermob_V4\waFermob\waFermob\waFermob\obj\Debug\waFermob.pdb
+\\LSC-SRV-7210-0\Users_DATA_Peda\bndux6\Mes Documents\PPE\PPE4 (Portail FERMOB)\waFermob_V4\waFermob\waFermob\waFermob\bin\Debug\waFermob.exe
+\\LSC-SRV-7210-0\Users_DATA_Peda\bndux6\Mes Documents\PPE\PPE4 (Portail FERMOB)\waFermob_V4\waFermob\waFermob\waFermob\bin\Debug\waFermob.pdb
+\\LSC-SRV-7210-0\Users_DATA_Peda\bndux6\Mes Documents\PPE\PPE4 (Portail FERMOB)\waFermob_V4\waFermob\waFermob\waFermob\bin\Debug\waFermob.xml
+\\LSC-SRV-7210-0\Users_DATA_Peda\bndux6\Mes Documents\PPE\PPE4 (Portail FERMOB)\waFermob_V4\waFermob\waFermob\waFermob\obj\Debug\waFermob.FormAjoutAction.resources
+\\LSC-SRV-7210-0\Users_DATA_Peda\bndux6\Mes Documents\PPE\PPE4 (Portail FERMOB)\waFermob_V4\waFermob\waFermob\waFermob\obj\Debug\waFermob.formAjoutCollec.resources
+\\LSC-SRV-7210-0\Users_DATA_Peda\bndux6\Mes Documents\PPE\PPE4 (Portail FERMOB)\waFermob_V4\waFermob\waFermob\waFermob\obj\Debug\waFermob.formAjoutCateg.resources
+\\LSC-SRV-7210-0\Users_DATA_Peda\bndux6\Mes Documents\PPE\PPE4 (Portail FERMOB)\waFermob_V4\waFermob\waFermob\waFermob\obj\Debug\waFermob.formAjoutCara.resources
+\\LSC-SRV-7210-0\Users_DATA_Peda\bndux6\Mes Documents\PPE\PPE4 (Portail FERMOB)\waFermob_V4\waFermob\waFermob\waFermob\obj\Debug\waFermob.FormAjoutContact.resources
+\\LSC-SRV-7210-0\Users_DATA_Peda\bndux6\Mes Documents\PPE\PPE4 (Portail FERMOB)\waFermob_V4\waFermob\waFermob\waFermob\obj\Debug\waFermob.FormAjoutEntreprise.resources
+\\LSC-SRV-7210-0\Users_DATA_Peda\bndux6\Mes Documents\PPE\PPE4 (Portail FERMOB)\waFermob_V4\waFermob\waFermob\waFermob\obj\Debug\waFermob.FormAjoutPays.resources
+\\LSC-SRV-7210-0\Users_DATA_Peda\bndux6\Mes Documents\PPE\PPE4 (Portail FERMOB)\waFermob_V4\waFermob\waFermob\waFermob\obj\Debug\waFermob.formAjoutProduit.resources
+\\LSC-SRV-7210-0\Users_DATA_Peda\bndux6\Mes Documents\PPE\PPE4 (Portail FERMOB)\waFermob_V4\waFermob\waFermob\waFermob\obj\Debug\waFermob.formAction.resources
+\\LSC-SRV-7210-0\Users_DATA_Peda\bndux6\Mes Documents\PPE\PPE4 (Portail FERMOB)\waFermob_V4\waFermob\waFermob\waFermob\obj\Debug\waFermob.FormAjoutTypeAction.resources
+\\LSC-SRV-7210-0\Users_DATA_Peda\bndux6\Mes Documents\PPE\PPE4 (Portail FERMOB)\waFermob_V4\waFermob\waFermob\waFermob\obj\Debug\waFermob.FormAjoutTypeEntreprise.resources
+\\LSC-SRV-7210-0\Users_DATA_Peda\bndux6\Mes Documents\PPE\PPE4 (Portail FERMOB)\waFermob_V4\waFermob\waFermob\waFermob\obj\Debug\waFermob.formCarac.resources
+\\LSC-SRV-7210-0\Users_DATA_Peda\bndux6\Mes Documents\PPE\PPE4 (Portail FERMOB)\waFermob_V4\waFermob\waFermob\waFermob\obj\Debug\waFermob.formCateg.resources
+\\LSC-SRV-7210-0\Users_DATA_Peda\bndux6\Mes Documents\PPE\PPE4 (Portail FERMOB)\waFermob_V4\waFermob\waFermob\waFermob\obj\Debug\waFermob.formCollec.resources
+\\LSC-SRV-7210-0\Users_DATA_Peda\bndux6\Mes Documents\PPE\PPE4 (Portail FERMOB)\waFermob_V4\waFermob\waFermob\waFermob\obj\Debug\waFermob.formContact.resources
+\\LSC-SRV-7210-0\Users_DATA_Peda\bndux6\Mes Documents\PPE\PPE4 (Portail FERMOB)\waFermob_V4\waFermob\waFermob\waFermob\obj\Debug\waFermob.FormEntr.resources
+\\LSC-SRV-7210-0\Users_DATA_Peda\bndux6\Mes Documents\PPE\PPE4 (Portail FERMOB)\waFermob_V4\waFermob\waFermob\waFermob\obj\Debug\waFermob.formModifAction.resources
+\\LSC-SRV-7210-0\Users_DATA_Peda\bndux6\Mes Documents\PPE\PPE4 (Portail FERMOB)\waFermob_V4\waFermob\waFermob\waFermob\obj\Debug\waFermob.FormModifContact.resources
+\\LSC-SRV-7210-0\Users_DATA_Peda\bndux6\Mes Documents\PPE\PPE4 (Portail FERMOB)\waFermob_V4\waFermob\waFermob\waFermob\obj\Debug\waFermob.FormModifEntreprise.resources
+\\LSC-SRV-7210-0\Users_DATA_Peda\bndux6\Mes Documents\PPE\PPE4 (Portail FERMOB)\waFermob_V4\waFermob\waFermob\waFermob\obj\Debug\waFermob.FormModifPays.resources
+\\LSC-SRV-7210-0\Users_DATA_Peda\bndux6\Mes Documents\PPE\PPE4 (Portail FERMOB)\waFermob_V4\waFermob\waFermob\waFermob\obj\Debug\waFermob.formModifProd.resources
+\\LSC-SRV-7210-0\Users_DATA_Peda\bndux6\Mes Documents\PPE\PPE4 (Portail FERMOB)\waFermob_V4\waFermob\waFermob\waFermob\obj\Debug\waFermob.formPays.resources
+\\LSC-SRV-7210-0\Users_DATA_Peda\bndux6\Mes Documents\PPE\PPE4 (Portail FERMOB)\waFermob_V4\waFermob\waFermob\waFermob\obj\Debug\waFermob.formProduit.resources
+\\LSC-SRV-7210-0\Users_DATA_Peda\bndux6\Mes Documents\PPE\PPE4 (Portail FERMOB)\waFermob_V4\waFermob\waFermob\waFermob\obj\Debug\waFermob.FormSupprAction.resources
+\\LSC-SRV-7210-0\Users_DATA_Peda\bndux6\Mes Documents\PPE\PPE4 (Portail FERMOB)\waFermob_V4\waFermob\waFermob\waFermob\obj\Debug\waFermob.formSupprCarac.resources
+\\LSC-SRV-7210-0\Users_DATA_Peda\bndux6\Mes Documents\PPE\PPE4 (Portail FERMOB)\waFermob_V4\waFermob\waFermob\waFermob\obj\Debug\waFermob.formSupprCateg.resources
+\\LSC-SRV-7210-0\Users_DATA_Peda\bndux6\Mes Documents\PPE\PPE4 (Portail FERMOB)\waFermob_V4\waFermob\waFermob\waFermob\obj\Debug\waFermob.formSupprCollec.resources
+\\LSC-SRV-7210-0\Users_DATA_Peda\bndux6\Mes Documents\PPE\PPE4 (Portail FERMOB)\waFermob_V4\waFermob\waFermob\waFermob\obj\Debug\waFermob.FormSupprContact.resources
+\\LSC-SRV-7210-0\Users_DATA_Peda\bndux6\Mes Documents\PPE\PPE4 (Portail FERMOB)\waFermob_V4\waFermob\waFermob\waFermob\obj\Debug\waFermob.FormSupprEntreprise.resources
+\\LSC-SRV-7210-0\Users_DATA_Peda\bndux6\Mes Documents\PPE\PPE4 (Portail FERMOB)\waFermob_V4\waFermob\waFermob\waFermob\obj\Debug\waFermob.FormSupprPays.resources
+\\LSC-SRV-7210-0\Users_DATA_Peda\bndux6\Mes Documents\PPE\PPE4 (Portail FERMOB)\waFermob_V4\waFermob\waFermob\waFermob\obj\Debug\waFermob.formSupprProd.resources
+\\LSC-SRV-7210-0\Users_DATA_Peda\bndux6\Mes Documents\PPE\PPE4 (Portail FERMOB)\waFermob_V4\waFermob\waFermob\waFermob\obj\Debug\waFermob.formSupprTypeAction.resources
+\\LSC-SRV-7210-0\Users_DATA_Peda\bndux6\Mes Documents\PPE\PPE4 (Portail FERMOB)\waFermob_V4\waFermob\waFermob\waFermob\obj\Debug\waFermob.FormSupprTypeEntr.resources
+\\LSC-SRV-7210-0\Users_DATA_Peda\bndux6\Mes Documents\PPE\PPE4 (Portail FERMOB)\waFermob_V4\waFermob\waFermob\waFermob\obj\Debug\waFermob.formTypeAction.resources
+\\LSC-SRV-7210-0\Users_DATA_Peda\bndux6\Mes Documents\PPE\PPE4 (Portail FERMOB)\waFermob_V4\waFermob\waFermob\waFermob\obj\Debug\waFermob.formTypeEnt.resources
+\\LSC-SRV-7210-0\Users_DATA_Peda\bndux6\Mes Documents\PPE\PPE4 (Portail FERMOB)\waFermob_V4\waFermob\waFermob\waFermob\obj\Debug\waFermob.Menu.resources
+\\LSC-SRV-7210-0\Users_DATA_Peda\bndux6\Mes Documents\PPE\PPE4 (Portail FERMOB)\waFermob_V4\waFermob\waFermob\waFermob\obj\Debug\waFermob.Resources.resources
+\\LSC-SRV-7210-0\Users_DATA_Peda\bndux6\Mes Documents\PPE\PPE4 (Portail FERMOB)\waFermob_V4\waFermob\waFermob\waFermob\obj\Debug\waFermob.vbproj.GenerateResource.Cache
+J:\E6\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\bin\Debug\waFermob.exe.config
+J:\E6\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.exe
+J:\E6\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.xml
+J:\E6\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.pdb
+J:\E6\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\bin\Debug\waFermob.exe
+J:\E6\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\bin\Debug\waFermob.pdb
+J:\E6\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\bin\Debug\waFermob.xml
+J:\E6\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.vbprojResolveAssemblyReference.cache
+J:\E6\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.FormAjoutAction.resources
+J:\E6\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.formAjoutCollec.resources
+J:\E6\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.formAjoutCateg.resources
+J:\E6\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.formAjoutCara.resources
+J:\E6\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.FormAjoutContact.resources
+J:\E6\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.FormAjoutEntreprise.resources
+J:\E6\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.FormAjoutPays.resources
+J:\E6\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.formAjoutProduit.resources
+J:\E6\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.formAction.resources
+J:\E6\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.FormAjoutTypeAction.resources
+J:\E6\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.FormAjoutTypeEntreprise.resources
+J:\E6\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.formCarac.resources
+J:\E6\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.formCateg.resources
+J:\E6\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.formCollec.resources
+J:\E6\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.formContact.resources
+J:\E6\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.FormEntr.resources
+J:\E6\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.formModifAction.resources
+J:\E6\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.FormModifContact.resources
+J:\E6\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.FormModifEntreprise.resources
+J:\E6\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.FormModifPays.resources
+J:\E6\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.formModifProd.resources
+J:\E6\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.formPays.resources
+J:\E6\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.formProduit.resources
+J:\E6\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.FormSupprAction.resources
+J:\E6\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.formSupprCarac.resources
+J:\E6\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.formSupprCateg.resources
+J:\E6\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.formSupprCollec.resources
+J:\E6\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.FormSupprContact.resources
+J:\E6\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.FormSupprEntreprise.resources
+J:\E6\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.FormSupprPays.resources
+J:\E6\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.formSupprProd.resources
+J:\E6\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.formSupprTypeAction.resources
+J:\E6\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.FormSupprTypeEntr.resources
+J:\E6\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.formTypeAction.resources
+J:\E6\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.formTypeEnt.resources
+J:\E6\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.Menu.resources
+J:\E6\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.Resources.resources
+J:\E6\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.vbproj.GenerateResource.Cache
+J:\E4\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\bin\Debug\waFermob.exe.config
+J:\E4\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.exe
+J:\E4\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.xml
+J:\E4\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.pdb
+J:\E4\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\bin\Debug\waFermob.exe
+J:\E4\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\bin\Debug\waFermob.pdb
+J:\E4\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\bin\Debug\waFermob.xml
+J:\E4\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.vbprojResolveAssemblyReference.cache
+J:\E4\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.FormAjoutAction.resources
+J:\E4\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.formAjoutCollec.resources
+J:\E4\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.formAjoutCateg.resources
+J:\E4\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.formAjoutCara.resources
+J:\E4\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.FormAjoutContact.resources
+J:\E4\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.FormAjoutEntreprise.resources
+J:\E4\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.FormAjoutPays.resources
+J:\E4\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.formAjoutProduit.resources
+J:\E4\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.formAction.resources
+J:\E4\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.FormAjoutTypeAction.resources
+J:\E4\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.FormAjoutTypeEntreprise.resources
+J:\E4\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.formCarac.resources
+J:\E4\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.formCateg.resources
+J:\E4\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.formCollec.resources
+J:\E4\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.formContact.resources
+J:\E4\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.FormEntr.resources
+J:\E4\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.formModifAction.resources
+J:\E4\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.FormModifContact.resources
+J:\E4\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.FormModifEntreprise.resources
+J:\E4\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.FormModifPays.resources
+J:\E4\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.formModifProd.resources
+J:\E4\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.formPays.resources
+J:\E4\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.formProduit.resources
+J:\E4\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.FormSupprAction.resources
+J:\E4\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.formSupprCarac.resources
+J:\E4\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.formSupprCateg.resources
+J:\E4\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.formSupprCollec.resources
+J:\E4\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.FormSupprContact.resources
+J:\E4\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.FormSupprEntreprise.resources
+J:\E4\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.FormSupprPays.resources
+J:\E4\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.formSupprProd.resources
+J:\E4\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.formSupprTypeAction.resources
+J:\E4\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.FormSupprTypeEntr.resources
+J:\E4\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.formTypeAction.resources
+J:\E4\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.formTypeEnt.resources
+J:\E4\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.Menu.resources
+J:\E4\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.Resources.resources
+J:\E4\PPE4 application FERMOB\waFermob_V4\waFermob_V4\waFermob\obj\Debug\waFermob.vbproj.GenerateResource.Cache
+H:\Mes Documents\CCF\waFermob finale\waFermob finale\waFermob_V4\waFermob\bin\Debug\waFermob.exe.config
+H:\Mes Documents\CCF\waFermob finale\waFermob finale\waFermob_V4\waFermob\obj\Debug\waFermob.exe
+H:\Mes Documents\CCF\waFermob finale\waFermob finale\waFermob_V4\waFermob\obj\Debug\waFermob.xml
+H:\Mes Documents\CCF\waFermob finale\waFermob finale\waFermob_V4\waFermob\obj\Debug\waFermob.pdb
+H:\Mes Documents\CCF\waFermob finale\waFermob finale\waFermob_V4\waFermob\bin\Debug\waFermob.exe
+H:\Mes Documents\CCF\waFermob finale\waFermob finale\waFermob_V4\waFermob\bin\Debug\waFermob.pdb
+H:\Mes Documents\CCF\waFermob finale\waFermob finale\waFermob_V4\waFermob\bin\Debug\waFermob.xml
+H:\Mes Documents\CCF\waFermob finale\waFermob finale\waFermob_V4\waFermob\obj\Debug\waFermob.vbprojResolveAssemblyReference.cache
+H:\Mes Documents\CCF\waFermob finale\waFermob finale\waFermob_V4\waFermob\obj\Debug\waFermob.FormAjoutAction.resources
+H:\Mes Documents\CCF\waFermob finale\waFermob finale\waFermob_V4\waFermob\obj\Debug\waFermob.formAjoutCollec.resources
+H:\Mes Documents\CCF\waFermob finale\waFermob finale\waFermob_V4\waFermob\obj\Debug\waFermob.formAjoutCateg.resources
+H:\Mes Documents\CCF\waFermob finale\waFermob finale\waFermob_V4\waFermob\obj\Debug\waFermob.formAjoutCara.resources
+H:\Mes Documents\CCF\waFermob finale\waFermob finale\waFermob_V4\waFermob\obj\Debug\waFermob.FormAjoutContact.resources
+H:\Mes Documents\CCF\waFermob finale\waFermob finale\waFermob_V4\waFermob\obj\Debug\waFermob.FormAjoutEntreprise.resources
+H:\Mes Documents\CCF\waFermob finale\waFermob finale\waFermob_V4\waFermob\obj\Debug\waFermob.FormAjoutPays.resources
+H:\Mes Documents\CCF\waFermob finale\waFermob finale\waFermob_V4\waFermob\obj\Debug\waFermob.formAjoutProduit.resources
+H:\Mes Documents\CCF\waFermob finale\waFermob finale\waFermob_V4\waFermob\obj\Debug\waFermob.formAction.resources
+H:\Mes Documents\CCF\waFermob finale\waFermob finale\waFermob_V4\waFermob\obj\Debug\waFermob.FormAjoutTypeAction.resources
+H:\Mes Documents\CCF\waFermob finale\waFermob finale\waFermob_V4\waFermob\obj\Debug\waFermob.FormAjoutTypeEntreprise.resources
+H:\Mes Documents\CCF\waFermob finale\waFermob finale\waFermob_V4\waFermob\obj\Debug\waFermob.formCarac.resources
+H:\Mes Documents\CCF\waFermob finale\waFermob finale\waFermob_V4\waFermob\obj\Debug\waFermob.formCateg.resources
+H:\Mes Documents\CCF\waFermob finale\waFermob finale\waFermob_V4\waFermob\obj\Debug\waFermob.formCollec.resources
+H:\Mes Documents\CCF\waFermob finale\waFermob finale\waFermob_V4\waFermob\obj\Debug\waFermob.formContact.resources
+H:\Mes Documents\CCF\waFermob finale\waFermob finale\waFermob_V4\waFermob\obj\Debug\waFermob.FormEntr.resources
+H:\Mes Documents\CCF\waFermob finale\waFermob finale\waFermob_V4\waFermob\obj\Debug\waFermob.formModifAction.resources
+H:\Mes Documents\CCF\waFermob finale\waFermob finale\waFermob_V4\waFermob\obj\Debug\waFermob.FormModifContact.resources
+H:\Mes Documents\CCF\waFermob finale\waFermob finale\waFermob_V4\waFermob\obj\Debug\waFermob.FormModifEntreprise.resources
+H:\Mes Documents\CCF\waFermob finale\waFermob finale\waFermob_V4\waFermob\obj\Debug\waFermob.FormModifPays.resources
+H:\Mes Documents\CCF\waFermob finale\waFermob finale\waFermob_V4\waFermob\obj\Debug\waFermob.formModifProd.resources
+H:\Mes Documents\CCF\waFermob finale\waFermob finale\waFermob_V4\waFermob\obj\Debug\waFermob.formPays.resources
+H:\Mes Documents\CCF\waFermob finale\waFermob finale\waFermob_V4\waFermob\obj\Debug\waFermob.formProduit.resources
+H:\Mes Documents\CCF\waFermob finale\waFermob finale\waFermob_V4\waFermob\obj\Debug\waFermob.FormSupprAction.resources
+H:\Mes Documents\CCF\waFermob finale\waFermob finale\waFermob_V4\waFermob\obj\Debug\waFermob.formSupprCarac.resources
+H:\Mes Documents\CCF\waFermob finale\waFermob finale\waFermob_V4\waFermob\obj\Debug\waFermob.formSupprCateg.resources
+H:\Mes Documents\CCF\waFermob finale\waFermob finale\waFermob_V4\waFermob\obj\Debug\waFermob.formSupprCollec.resources
+H:\Mes Documents\CCF\waFermob finale\waFermob finale\waFermob_V4\waFermob\obj\Debug\waFermob.FormSupprContact.resources
+H:\Mes Documents\CCF\waFermob finale\waFermob finale\waFermob_V4\waFermob\obj\Debug\waFermob.FormSupprEntreprise.resources
+H:\Mes Documents\CCF\waFermob finale\waFermob finale\waFermob_V4\waFermob\obj\Debug\waFermob.FormSupprPays.resources
+H:\Mes Documents\CCF\waFermob finale\waFermob finale\waFermob_V4\waFermob\obj\Debug\waFermob.formSupprProd.resources
+H:\Mes Documents\CCF\waFermob finale\waFermob finale\waFermob_V4\waFermob\obj\Debug\waFermob.formSupprTypeAction.resources
+H:\Mes Documents\CCF\waFermob finale\waFermob finale\waFermob_V4\waFermob\obj\Debug\waFermob.FormSupprTypeEntr.resources
+H:\Mes Documents\CCF\waFermob finale\waFermob finale\waFermob_V4\waFermob\obj\Debug\waFermob.formTypeAction.resources
+H:\Mes Documents\CCF\waFermob finale\waFermob finale\waFermob_V4\waFermob\obj\Debug\waFermob.formTypeEnt.resources
+H:\Mes Documents\CCF\waFermob finale\waFermob finale\waFermob_V4\waFermob\obj\Debug\waFermob.Menu.resources
+H:\Mes Documents\CCF\waFermob finale\waFermob finale\waFermob_V4\waFermob\obj\Debug\waFermob.Resources.resources
+H:\Mes Documents\CCF\waFermob finale\waFermob finale\waFermob_V4\waFermob\obj\Debug\waFermob.vbproj.GenerateResource.Cache
